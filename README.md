@@ -1,1 +1,1 @@
-Alright I can make this my own now
+Just a guy trying to learn react native
